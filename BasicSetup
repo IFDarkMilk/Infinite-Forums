@@ -11,10 +11,7 @@
     </div>
   <div class="Main Menu">
       
-  
-  
   <!-- Beginning of Style -->
-  
   
   <style>
   
@@ -27,10 +24,11 @@
   height: 320px;
   width: 800px;
   background-color: light grey;
-  
   }
+  
   .main p {
-  color: #fff;
+  color: black;
+  font-family: Corbel;
   font-size: 18px;
   }
   

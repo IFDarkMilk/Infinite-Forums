@@ -23,7 +23,7 @@
   color: Grey;
   height: 320px;
   width: 800px;
-  background-color: light grey;
+  background-color: LightGrey;
   }
   
   .main p {

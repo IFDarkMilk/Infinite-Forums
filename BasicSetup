@@ -19,17 +19,17 @@
   font-family: Corbel;
   font-size: 45px;
   word-spacing: 3px;
-  text-align: left;
+  text-align: center;
   color: Grey;
   height: 320px;
-  width: 800px;
-  background-color: LightGrey;
+  width: 100%;
   }
   
   .main p {
-  color: black;
+  color: grey;
   font-family: Corbel;
   font-size: 18px;
+  text-align: 100%;
   }
   
   

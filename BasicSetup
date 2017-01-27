@@ -5,15 +5,21 @@
   </head>
   <!-- Body includes: -->
   <body>
-  <div class="main">
-    <h1>Infinite Forums</h1>
-    <p>A multi-console game forum...</p>
-    </div>
-  <div class="Main Menu">
-      
+  <div class="allbody">
+    <div class="main">
+        <h1>Infinite Forums</h1>
+        <p>A multi-console game forum...</p>
+      </div>
+    <div class="Main Menu">
+    
+    
+  </div>
   <!-- Beginning of Style -->
   
   <style>
+  .allbody {
+  overflow: scroll;
+  }
   
   h1 {
   font-family: Corbel;
@@ -21,7 +27,8 @@
   word-spacing: 3px;
   text-align: center;
   color: Grey;
-  height: 320px;
+  min-height: 300px;
+  max-height: 1000px;
   width: 100%;
   }
   
@@ -29,7 +36,9 @@
   color: grey;
   font-family: Corbel;
   font-size: 18px;
-  text-align: 100%;
+  text-align: center;
+  height: 320px;
+  width:100%;
   }
   
   

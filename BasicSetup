@@ -3,15 +3,16 @@
   <head>
   <title>Infinite Forums</title>
   </head>
-  <!-- Body includes: -->
+  <!-- Body includes: main menu -->
   <body>
   <div class="main">
     <h1>Infinite Forums</h1>
     <p>A multi-console game forum...</p>
     </div>
-  <div class="Main Menu">
-      
-  
+  <div class="mainmenu">
+    <p2>Clash Royale<p2>
+    <p2>Overwatch<p2>  
+    <p2>Prison Architect<p2>
   
   <!-- Beginning of Style -->
   
@@ -26,7 +27,6 @@
   color: Grey;
   height: 320px;
   width: 800px;
-  background-color: light grey;
   
   }
   .main p {
@@ -34,5 +34,15 @@
   font-size: 18px;
   }
   
+  .mainmenu p2 {
+  font-family: Corbel;
+  font-size: 30px;
+  word-spacing: 3px;
+  text-align: left;
+  color: Grey;
+  position: relative;
+  left: 30px;
+  
+  }
   
   </style>

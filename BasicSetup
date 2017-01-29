@@ -12,6 +12,9 @@
       </div>
     <div class="Main Menu">
     
+    <!-- Navigation -->
+    <nav>
+    
     
   </div>
   <!-- Beginning of Style -->
@@ -27,9 +30,7 @@
   word-spacing: 3px;
   text-align: center;
   color: Grey;
-  min-height: 300px;
-  max-height: 1000px;
-  width: 100%;
+  border: 3px solid black;
   }
   
   .main p {

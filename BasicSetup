@@ -28,7 +28,7 @@
   
   <style>
   .allbody {
-  overflow: scroll;
+  
   }
   
   h1 {
@@ -58,12 +58,11 @@
   padding: 20px 0px;
   text-transform: uppercase;
   margin: 0px;
-  margin-right: 20px;
-  margin-left: 20px;
   display: inline;
   font-weight: 300;
   font-size: 25px;
   color: Grey;
+  list-style-type: none;
   }
   
   

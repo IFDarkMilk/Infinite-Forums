@@ -19,3 +19,42 @@
     <li>Option 4<li>
     </div>
     
+    </style>
+    
+<style>
+ h1 {
+  font-family: Corbel;
+  font-size: 45px;
+  word-spacing: 3px;
+  text-align: center;
+  color: Grey;
+  border: 3px solid grey;
+  margin: auto;
+  width: 320px;
+  
+  }
+  
+  .main p {
+  color: grey;
+  font-family: Corbel;
+  font-size: 18px;
+  text-align: center;
+  height: 320px;
+  width:100%;
+  }
+  
+  li {
+  font-family: corbel;
+  letter-spacing: 2px;
+  padding: 20px 0px;
+  text-transform: uppercase;
+  margin: 0px;
+  display: inline;
+  font-weight: 300;
+  font-size: 25px;
+  color: Grey;
+  list-style-type: none;
+  }
+  
+  
+  </style>
